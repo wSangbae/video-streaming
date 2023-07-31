@@ -1,0 +1,6 @@
+tqdm>=4.*
+click
+flake8
+pytest
+pytest-cov
+pylint
